@@ -1,0 +1,10 @@
+.filters-container{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.filters-container > *{
+    margin: 20px;
+}

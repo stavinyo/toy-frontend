@@ -1,0 +1,26 @@
+.app-header {
+  height: 50px;
+  padding: 10px;
+  background-color: rgb(255, 0, 0);
+  background-color: red;
+  display: flex;
+  justify-content: space-between;
+
+  .img-logo {
+    height: 100%;
+  }
+
+  a {
+    margin-inline-end: 20px;
+  }
+
+  > * {
+    display: flex;
+    align-items: center;
+  }
+
+  .img-logo {
+    height: 100%;
+  }
+}
+
